@@ -1,4 +1,5 @@
-# README
+# Friends List App
+Hello my name is Ali AND I am new in ruby on rails development
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
